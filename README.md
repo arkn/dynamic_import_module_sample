@@ -2,14 +2,15 @@
 
 ## tree strcuture
 ```
-$ tree
 .
 ├── README.md
 ├── config
-│   └── test.json
+│   ├── test1.json
+│   └── test2.json
 ├── main.py
 └── plugin
-    └── func.py
+    ├── func1.py
+    └── func2.py
 ```
 
 ## example result
