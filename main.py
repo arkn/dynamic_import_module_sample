@@ -6,6 +6,7 @@ import json
 for filename in os.listdir('config/.'):
   f = open('config/' + filename, 'r')
   j = json.load(f)
+  print(j)
   
   plugin_pkg_name = 'plugin.' + j['plugin']['pkg']
 
