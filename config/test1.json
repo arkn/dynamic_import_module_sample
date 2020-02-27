@@ -1,9 +1,9 @@
 {
   "key": {
-    "name": "test",
+    "name": "test1",
     "ver": "1.0.0"
   },
   "plugin": {
-    "pkg": "func"
+    "pkg": "func1"
   }
 }
